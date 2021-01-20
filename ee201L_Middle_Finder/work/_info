@@ -1,0 +1,57 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Questasim_projects
+T_opt
+!s110 1608819228
+V0OBdMn33:O4_5hV?S50`20
+04 16 4 work middle_finder_tb fast 0
+=1-002b670ab755-5fe4a21c-9f-5cd4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4c;61
+R0
+vmiddle_finder
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 UUY5^?Q9o`kN[IgJce;;U1
+I_omZ0;Fm3][?3;:aJ55YL3
+Z2 dC:/Questasim_projects/middle_finder
+w1219974936
+8middle_finder.v
+Fmiddle_finder.v
+L0 10
+Z3 OL;L;10.4c;61
+Z4 !s108 1608848189.000000
+!s107 middle_finder.v|
+!s90 -reportprogress|300|+acc|middle_finder.v|
+!i113 0
+Z5 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vmiddle_finder_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 S@:@L587]B:k2QkPnJflA3
+I=z47GXKWgjNRNZ1Cncc9J0
+R2
+w1219950608
+8middle_finder_tb.v
+Fmiddle_finder_tb.v
+L0 8
+R3
+R4
+!s107 middle_finder_tb.v|
+!s90 -reportprogress|300|+acc|middle_finder_tb.v|
+!i113 0
+R5
